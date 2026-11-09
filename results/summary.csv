@@ -1,0 +1,15 @@
+noise_sd,method,recovery,relevance,n_found
+0.0,approximate LCS (tol=0.1),0.853,0.853,3.0
+0.0,strict LCS (tol=0),1.0,1.0,3.0
+0.05,approximate LCS (tol=0.1),0.872,0.872,3.0
+0.05,strict LCS (tol=0),0.724,0.724,3.0
+0.1,approximate LCS (tol=0.1),0.752,0.752,3.0
+0.1,strict LCS (tol=0),0.45,0.45,3.0
+0.15,approximate LCS (tol=0.1),0.672,0.672,3.0
+0.15,strict LCS (tol=0),0.29,0.308,3.0
+0.2,approximate LCS (tol=0.1),0.566,0.566,3.0
+0.2,strict LCS (tol=0),0.212,0.229,3.0
+0.3,approximate LCS (tol=0.1),0.334,0.33,3.0
+0.3,strict LCS (tol=0),0.128,0.183,3.0
+0.4,approximate LCS (tol=0.1),0.257,0.257,3.0
+0.4,strict LCS (tol=0),0.108,0.121,3.0
